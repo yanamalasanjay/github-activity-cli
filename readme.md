@@ -23,3 +23,4 @@ Clone the repo:
 git clone https://github.com/<yanamalasanjay>/github-activity-cli.git
 cd github-activity-cli
 project url: https://roadmap.sh/projects/github-user-activity
+```
